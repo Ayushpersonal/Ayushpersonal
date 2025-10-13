@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey, I'm Ayush Kumar<br><br>🚀 **Web Developer | UI/UX Designer | AI Engineer | Graphic Designer**<br><br>💡 I build modern web apps using **HTML, CSS, JS, React, Tailwind**  <br>🎨 Design clean interfaces with **Figma & Canva**  <br>🧠 Work with **Python, MATLAB, C**, and **AI model training & fine-tuning**  <br>⚙️ Skilled in **Prompt Engineering** & creative automation<br><br>📫  LinkedIn :- https://www.linkedin.com/in/ayush-kumar-695632334/<br>---<br>✨ *Code. Create. Innovate.*  <br>
+👋 Hey, I'm Ayush Kumar<br><br>🚀 **Web Developer | UI/UX Designer | AI Engineer | Graphic Designer**<br><br>💡 I build modern web apps using **HTML, CSS, JS, React, Tailwind**  <br>🎨 Design clean interfaces with **Figma & Canva**  <br>🧠 Work with **Python, MATLAB, C**, and **AI model training & fine-tuning**  <br>⚙️ Skilled in **Prompt Engineering** & creative automation<br><br>📫 
+*Code. Create. Innovate.*  <br>
 
 
 ## 🌐 Socials:
