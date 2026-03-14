@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Ayush Kumar — Full Stack Developer" src="assets/header-dark.svg" width="100%">
+  <img alt="Ayushpersonal — Full Stack Developer" src="assets/header-dark.svg" width="100%">
 </picture>
 👋 Hey, I'm Ayush Kumar<br><br>🚀 **Web Developer | UI/UX Designer | AI Engineer | Graphic Designer**<br><br>💡 I build modern web apps using **HTML, CSS, JS, React, Tailwind**  <br>🎨 Design clean interfaces with **Figma & Canva**  <br>🧠 Work with **Python, MATLAB, C**, and **AI model training & fine-tuning**  <br>⚙️ Skilled in **Prompt Engineering** & creative automation<br><br>📫 
 *Code. Create. Innovate.*  <br>
