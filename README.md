@@ -1,5 +1,8 @@
 # 💫 About Me:
 👋 Hey, I'm Ayush Kumar<br><br>🚀 **Web Developer | UI/UX Designer | AI Engineer | Graphic Designer**<br><br>💡 I build modern web apps using **HTML, CSS, JS, React, Tailwind**  <br>🎨 Design clean interfaces with **Figma & Canva**  <br>🧠 Work with **Python, MATLAB, C**, and **AI model training & fine-tuning**  <br>⚙️ Skilled in **Prompt Engineering** & creative automation<br><br>📫 
+<a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+Honours+Bhadauria;An+Aspiring+FullStack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+    </a>
 *Code. Create. Innovate.*  <br>
 
 
