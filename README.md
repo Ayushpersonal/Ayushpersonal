@@ -1,9 +1,9 @@
 ![Header Animation](assets/Header.gif)
 **Web Developer • AI Enthusiast • Prompt Engineer • Graphic Designer **
 
-💡 I build modern web apps using **HTML, CSS, JavaScript, React, Tailwind**
-🧠 Work with **Python, AI/ML, and model fine-tuning**
-⚙️ Interested in **automation, AI tools, and developer workflows**
+💡 I build modern web apps using **HTML, CSS, JavaScript, React, Tailwind**<br>
+🧠 Work with **Python, AI/ML, and model fine-tuning**<br>
+⚙️ Interested in **automation, AI tools, and developer workflows**<br>
 
 ---
 
