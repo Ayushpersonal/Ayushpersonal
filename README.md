@@ -1,9 +1,11 @@
 ![Header Animation](assets/Header.gif)
-**Web Developer • AI Enthusiast • Prompt Engineer • Graphic Designer **
 
 💡 I build modern web apps using **HTML, CSS, JavaScript, React, Tailwind**<br>
 🧠 Work with **Python, AI/ML, and model fine-tuning**<br>
 ⚙️ Interested in **automation, AI tools, and developer workflows**<br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Prompt+Engineer;Graphic+Designer" />
+</p>
 
 ---
 
