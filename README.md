@@ -1,8 +1,5 @@
 ![Header Animation](assets/Header.gif)
-
-## 👋 Hey, I'm Ayush Kumar
-
-**Web Developer • AI Enthusiast • Prompt Engineer**
+**Web Developer • AI Enthusiast • Prompt Engineer • Graphic Designer **
 
 💡 I build modern web apps using **HTML, CSS, JavaScript, React, Tailwind**
 🧠 Work with **Python, AI/ML, and model fine-tuning**
