@@ -2,18 +2,26 @@
 ![Header Animation](assets/Header.gif)
 **Web Developer | UI/UX Designer | Promt Engin | Graphic Designer**<br><br>💡 I build modern web apps using **HTML, CSS, JS, React, Tailwind**  <br>🎨 Design clean interfaces with **Figma & Canva**  <br>🧠 Work with **Python, MATLAB, C**, and **AI model training & fine-tuning**  <br>⚙️ Skilled in **Prompt Engineering** & creative automation<br><br>📫 
 *Code. Create. Innovate.*  <br>
-
+//table code
 <table>
 <tr>
 <td width="40%">
 <img src="assets/programmer.gif" width="100%">
 </td>
 <td width="60%">
-### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+<h3>🌐 Socials</h3>
+<a href="https://www.instagram.com/ayush20_ig/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/ayush-kumar-695632334/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="https://x.com/ayush_personal">
+<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white">
+</a>
+<a href="mailto:ayushpersonal20@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+</a>
 </td>
 </tr>
 </table>
