@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -31,9 +30,8 @@
 
 </p>
 
----
 
-# 🚀 Featured Projects
+<h3>🚀 Featured Projects</h3>
 
 
 <p align="center">
@@ -54,47 +52,27 @@
 
 ### 🧠 Languages
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML
-
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
 </p>
 
 ### 🗄 Backend & Database
 
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
 </p>
 
-### ☁️ Cloud & Tools
+### ☁️ Tools & Platforms
 
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,npm" />
 </p>
-
 ---
 
 # 📊 GitHub Stats
@@ -114,10 +92,19 @@
 </p>
 
 ---
-## 🌆 Contribution Skyline
+Generates a snake game from a github user contributions graph
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ayushpersonal/Ayushpersonal/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</p>
