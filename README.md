@@ -118,6 +118,7 @@
 ## 🌆 Contribution Skyline
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ayushpersonal&color=blueviolet&style=for-the-badge">
+
+<img src="https://raw.githubusercontent.com/Ayushpersonal/Ayushpersonal/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </p>
