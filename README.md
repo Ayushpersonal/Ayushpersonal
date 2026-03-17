@@ -77,20 +77,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushpersonal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=ayushpersonal&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushpersonal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushpersonal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpersonal&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushpersonal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<br>
 
 <hr>
 
