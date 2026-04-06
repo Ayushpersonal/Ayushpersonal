@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2800&pause=900&color=9b5de5&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;Managing+Director+%40+Catalyst+Crew;BCA+%40+PSIT+Kanpur+%7C+AI+%2B+Full+Stack+%2B+Real-Time;Building+products+used+by+millions...)](https://github.com/Ashwinjauhary)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2800&pause=900&color=9b5de5&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;BTech+ECE+%40+KIET+Ghaziabad;Full+Stack+Developer;Building+products+that+actually+matter...)](https://github.com/Ayushpersonal)
 
 </div>
 
