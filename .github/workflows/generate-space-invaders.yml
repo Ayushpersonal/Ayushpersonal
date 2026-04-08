@@ -1,0 +1,31 @@
+name: Generate Space Invaders
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # NOTE: If you have a specific space invaders action or script you wanted to use,
+      # you will need to add it here. For example, if you find the script, it would be:
+      # - name: Setup Node
+      #   uses: actions/setup-node@v4
+      # - run: node script.js
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "Generated space invaders" || exit 0
+          git push
