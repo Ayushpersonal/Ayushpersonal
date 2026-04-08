@@ -49,8 +49,8 @@ const ayush: Developer = {
 
 <p align="center">
 
-<a href="https://github.com/Ayushpersonal/jal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushpersonal&repo=jal&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Ayushpersonal/Saas_IG_App.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushpersonal&repo=Saas_IG_App&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Ayushpersonal/ToDo-DApp">
