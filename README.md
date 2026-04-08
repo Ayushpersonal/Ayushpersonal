@@ -27,7 +27,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Ayushpersonal/Ayushpersonal/output/space-invaders.svg" />
-
+![Space Invaders](https://raw.githubusercontent.com/Ayushpersonal/Ayushpersonal/output/space-invaders.svg)
 </div>
 
 ---
