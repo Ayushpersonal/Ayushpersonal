@@ -46,10 +46,9 @@ const ayush: Developer = {
 
 <h3>🚀 Featured Projects</h3>
 
-
 <p align="center">
 
-<a href="https://github.com/Ayushpersonal/Saas_IG_App.git">
+<a href="https://github.com/Ayushpersonal/Saas_IG_App">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushpersonal&repo=Saas_IG_App&theme=tokyonight&hide_border=true"/>
 </a>
 
