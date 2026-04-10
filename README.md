@@ -49,11 +49,11 @@ const ayush: Developer = {
 <p align="center">
 
 <a href="https://github.com/Ayushpersonal/Saas_IG_App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushpersonal&repo=Saas_IG_App&theme=tokyonight&hide_border=true"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ayushpersonal&repo=Saas_IG_App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ayushpersonal/ToDo-DApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushpersonal&repo=ToDo-DApp&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushpersonal&repo=ToDo-DApp&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
 </p>
