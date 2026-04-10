@@ -26,8 +26,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayushpersonal/Ayushpersonal/output/space-invaders.svg" />
-![Space Invaders](https://raw.githubusercontent.com/Ayushpersonal/Ayushpersonal/output/space-invaders.svg)
+<img src="https://raw.githubusercontent.com/Ashwinjauhary/Ashwinjauhary/output/space-invaders.svg" alt="Space Invaders eating contribution graph" />
+
 </div>
 
 ---
