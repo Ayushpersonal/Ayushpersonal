@@ -4,7 +4,7 @@ const fs = require('fs');
 const USERNAME = process.env.GITHUB_USERNAME || 'Ayushpersonal';
 const TOKEN = process.env.GH_TOKEN;
 
-const year = 2025;
+const year = new Date().getFullYear();
 const FROM = `${year}-01-01T00:00:00Z`;
 const TO   = `${year}-12-31T23:59:59Z`;
 
