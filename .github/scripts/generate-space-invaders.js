@@ -1,8 +1,8 @@
 const https = require('https');
 const fs = require('fs');
 
-const USERNAME = process.env.GITHUB_USERNAME || 'Ayushpersonal20';
-const TOKEN = process.env.GITHUB_TOKEN;
+const USERNAME = process.env.GITHUB_USERNAME || 'Ayushpersonal';
+const TOKEN = process.env.GH_TOKEN;
 
 const year = 2025;
 const FROM = `${year}-01-01T00:00:00Z`;
