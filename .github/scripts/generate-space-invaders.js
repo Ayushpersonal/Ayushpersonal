@@ -34,15 +34,21 @@ function fetchContributions() {
         'Content-Type': 'application/json',
         'User-Agent': 'space-invaders-gen'
       }
-    }, res => {
-      let data = '';
-      res.on('data', c => data += c);
-      res.on('end', () => {
-        const parsed = JSON.parse(data);
-        if (parsed.errors) { console.error('GraphQL errors:', JSON.stringify(parsed.errors)); process.exit(1); }
-        resolve(parsed);
-      });
-    });
+    }, res.on('end', () => {
+  const parsed = JSON.parse(data);
+
+  if (parsed.errors) {
+    console.error('❌ GraphQL errors:', JSON.stringify(parsed.errors, null, 2));
+    process.exit(1);
+  }
+
+  if (!parsed.data || !parsed.data.user) {
+    console.error('❌ Invalid response:', JSON.stringify(parsed, null, 2));
+    process.exit(1);
+  }
+
+  resolve(parsed);
+});
     req.on('error', reject);
     req.write(body);
     req.end();
