@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 
-const USERNAME = process.env.GITHUB_USERNAME || 'Ashwinjauhary';
+const USERNAME = process.env.GITHUB_USERNAME || 'Ayushpersonal20';
 const TOKEN = process.env.GITHUB_TOKEN;
 
 const year = 2025;
